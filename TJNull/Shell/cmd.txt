@@ -1,0 +1,3 @@
+Execute the following command to read the autologon credentials:
+cmd:
+reg query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
